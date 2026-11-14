@@ -13,9 +13,6 @@
   <img alt="MongoDB optional" src="https://img.shields.io/badge/MongoDB-optional-47A248?logo=mongodb&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="report_screenshots/23_complete_gameplay.png" alt="Actual Bloodmoon: Sylas gameplay with the hero, demons, fortress, and HUD" width="100%">
-</p>
 
 I developed this during my B.Tech 4-1 semester as a semester examination project. I built it while learning web technologies and working within the time and technology limits of a semester project.
 
@@ -23,9 +20,11 @@ I developed this during my B.Tech 4-1 semester as a semester examination project
 
 I used an AI-assisted, iterative workflow often called **vibe coding**. I described a feature, used AI tools to help draft or change code, ran the game, looked at what happened, and then refined the instructions and implementation. I made the project decisions, reviewed the results, tested the game by playing it, and kept working on the parts that did not behave as intended. AI assistance was part of the process; it did not replace understanding or checking the code.
 
-## What I learned about myself
+## About me and how I learn
 
-I learn best when I can try an idea and see the result. During this project, I kept testing the game, noticed when the controls or characters did not feel right, and looked for ways to improve them. Some problems took more than one attempt, especially making image-based heroes and demons feel active. Working through those problems helped me practise patience and become more confident about trying unfamiliar things. I am still learning, but this project shows that I am curious about building and willing to keep improving when something is challenging.
+Hi, I am Kaithepalli Vijay Vardhan, a Computer Science and Engineering student. I am curious about many things and especially interested in games, web technologies, character design, and how interactive ideas are built. I learn best by trying things myself: I make a change, run it, see what happens, and then decide what to improve.
+
+I do not need to know every answer before I begin. I am willing to take on a difficult feature, ask questions when I get stuck, and keep working through mistakes. While building this game, I tested the controls and characters many times. When pixel-art heroes and demons looked static, I looked for a way to make them move and react in the game. That experience helped me practise patience and trust the learning process. I am still learning, but I enjoy exploring new ideas and turning them into something I can play and show.
 
 One of my biggest challenges was creating heroes and demons. My project technologies did not include a full 3D modelling and character-rigging workflow, and that would have been too much to build within the semester. I chose pixel-art images for the characters instead.
 
@@ -152,20 +151,58 @@ report_screenshots/ Actual screenshots captured from the running game
 
 ## Screenshots
 
-These are screenshots captured from the running game.
+All 24 images below were captured from the running game. The thumbnails are shown directly in this README; click any image to open its full-size version.
 
 <table>
   <tr>
-    <td align="center"><img src="report_screenshots/02_adventure_hub.png" alt="Adventure Hub" width="480"><br><strong>Adventure Hub</strong></td>
-    <td align="center"><img src="report_screenshots/03_hero_selection.png" alt="Hero selection screen" width="480"><br><strong>Choose a hero</strong></td>
+    <td align="center"><a href="report_screenshots/01_main_game_screen.png"><img loading="lazy" src="report_screenshots/01_main_game_screen.png" alt="01 Main game screen" width="460"></a><br><strong>01 · Main game screen</strong></td>
+    <td align="center"><a href="report_screenshots/02_adventure_hub.png"><img loading="lazy" src="report_screenshots/02_adventure_hub.png" alt="02 Adventure Hub" width="460"></a><br><strong>02 · Adventure Hub</strong></td>
   </tr>
   <tr>
-    <td align="center"><img src="report_screenshots/06_fortress_environment.png" alt="Fortress arena during gameplay" width="480"><br><strong>Fortress arena</strong></td>
-    <td align="center"><img src="report_screenshots/22_enemy_defeat_result.png" alt="Level result screen" width="480"><br><strong>Level result</strong></td>
+    <td align="center"><a href="report_screenshots/03_hero_selection.png"><img loading="lazy" src="report_screenshots/03_hero_selection.png" alt="03 Hero selection" width="460"></a><br><strong>03 · Hero selection</strong></td>
+    <td align="center"><a href="report_screenshots/04_campaign_selection.png"><img loading="lazy" src="report_screenshots/04_campaign_selection.png" alt="04 Campaign selection" width="460"></a><br><strong>04 · Campaign selection</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/05_game_start_screen.png"><img loading="lazy" src="report_screenshots/05_game_start_screen.png" alt="05 Game start screen" width="460"></a><br><strong>05 · Game start screen</strong></td>
+    <td align="center"><a href="report_screenshots/06_fortress_environment.png"><img loading="lazy" src="report_screenshots/06_fortress_environment.png" alt="06 Fortress environment" width="460"></a><br><strong>06 · Fortress environment</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/07_blood_moon_environment.png"><img loading="lazy" src="report_screenshots/07_blood_moon_environment.png" alt="07 Blood Moon environment" width="460"></a><br><strong>07 · Blood Moon environment</strong></td>
+    <td align="center"><a href="report_screenshots/08_player_third_person.png"><img loading="lazy" src="report_screenshots/08_player_third_person.png" alt="08 Player in third-person view" width="460"></a><br><strong>08 · Player in third-person view</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/09_player_movement.png"><img loading="lazy" src="report_screenshots/09_player_movement.png" alt="09 Player movement" width="460"></a><br><strong>09 · Player movement</strong></td>
+    <td align="center"><a href="report_screenshots/10_camera_view.png"><img loading="lazy" src="report_screenshots/10_camera_view.png" alt="10 Camera view" width="460"></a><br><strong>10 · Camera view</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/11_player_jump.png"><img loading="lazy" src="report_screenshots/11_player_jump.png" alt="11 Player jump" width="460"></a><br><strong>11 · Player jump</strong></td>
+    <td align="center"><a href="report_screenshots/12_enemy_visible.png"><img loading="lazy" src="report_screenshots/12_enemy_visible.png" alt="12 Enemy visible" width="460"></a><br><strong>12 · Enemy visible</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/13_player_enemy_interaction.png"><img loading="lazy" src="report_screenshots/13_player_enemy_interaction.png" alt="13 Player and enemy interaction" width="460"></a><br><strong>13 · Player and enemy interaction</strong></td>
+    <td align="center"><a href="report_screenshots/14_player_attack.png"><img loading="lazy" src="report_screenshots/14_player_attack.png" alt="14 Player attack" width="460"></a><br><strong>14 · Player attack</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/15_enemy_attack.png"><img loading="lazy" src="report_screenshots/15_enemy_attack.png" alt="15 Enemy attack" width="460"></a><br><strong>15 · Enemy attack</strong></td>
+    <td align="center"><a href="report_screenshots/16_combat_scene.png"><img loading="lazy" src="report_screenshots/16_combat_scene.png" alt="16 Combat scene" width="460"></a><br><strong>16 · Combat scene</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/17_magic_ability.png"><img loading="lazy" src="report_screenshots/17_magic_ability.png" alt="17 Magic ability" width="460"></a><br><strong>17 · Magic ability</strong></td>
+    <td align="center"><a href="report_screenshots/18_quest_objective.png"><img loading="lazy" src="report_screenshots/18_quest_objective.png" alt="18 Quest objective" width="460"></a><br><strong>18 · Quest objective</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/19_game_hud.png"><img loading="lazy" src="report_screenshots/19_game_hud.png" alt="19 Game HUD" width="460"></a><br><strong>19 · Game HUD</strong></td>
+    <td align="center"><a href="report_screenshots/20_radar_minimap.png"><img loading="lazy" src="report_screenshots/20_radar_minimap.png" alt="20 Radar and minimap" width="460"></a><br><strong>20 · Radar and minimap</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/21_game_progress.png"><img loading="lazy" src="report_screenshots/21_game_progress.png" alt="21 Game progress" width="460"></a><br><strong>21 · Game progress</strong></td>
+    <td align="center"><a href="report_screenshots/22_enemy_defeat_result.png"><img loading="lazy" src="report_screenshots/22_enemy_defeat_result.png" alt="22 Enemy defeat result" width="460"></a><br><strong>22 · Enemy defeat result</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="report_screenshots/23_complete_gameplay.png"><img loading="lazy" src="report_screenshots/23_complete_gameplay.png" alt="23 Complete gameplay" width="460"></a><br><strong>23 · Complete gameplay</strong></td>
+    <td align="center"><a href="report_screenshots/24_final_gameplay.png"><img loading="lazy" src="report_screenshots/24_final_gameplay.png" alt="24 Final gameplay" width="460"></a><br><strong>24 · Final gameplay</strong></td>
   </tr>
 </table>
-
-The full screenshot set is in the report_screenshots folder.
 
 ## Additional module in this repository
 
